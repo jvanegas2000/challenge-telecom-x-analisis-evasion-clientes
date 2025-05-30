@@ -106,7 +106,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 - **Autor**: Juan Carlos Vanegas Molina
 
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
